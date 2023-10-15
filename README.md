@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# try-streamlit
 
-Description of the app ...
+blah blah blah ...
 
 ## Demo App
 
